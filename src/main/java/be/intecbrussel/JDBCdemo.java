@@ -3,7 +3,7 @@ package be.intecbrussel;
 import java.sql.*;
 import java.util.Scanner;
 
-public class JDBCdemo2 {
+public class JDBCdemo {
     public static void main(String[] args) {
 
 
